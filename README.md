@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E1FF,100:0077FF&height=280&section=header&text=Alamin%20Mondal&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Java%20Full%20Stack%20Developer%20•%20AI%2FML%20Enthusiast%20•%20Data%20Analyst&descAlignY=58&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:FF5DA2,100:2CD9FF&height=280&section=header&text=Alamin%20Mondal&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Java%20Full%20Stack%20Developer%20•%20AI%2FML%20Enthusiast%20•%20Data%20Analyst&descAlignY=58&descSize=20" width="100%" />
 
 </div>
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=900&color=00E1FF&center=true&vCenter=true&width=1200&lines=Hey+there!+I'm+Alamin+Mondal+%F0%9F%91%8B;Computer+Engineer+%7C+Java+Full+Stack+Developer;Python+%7C+AI%2FML+%7C+Data+Analytics;Building+AI-Powered+Healthcare+Applications+%F0%9F%9A%80;Open+to+Software+Engineering+Roles;SIH+2025+Grand+Finale+Runner-Up+%F0%9F%8F%86;Passionate+About+Full+Stack+%26+AI+Engineering" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=900&color=FF5DA2&center=true&vCenter=true&width=1200&lines=Hey+there!+I'm+Alamin+Mondal+%F0%9F%91%8B;Computer+Engineer+%7C+Java+Full+Stack+Developer;Python+%7C+AI%2FML+%7C+Data+Analytics;Building+AI-Powered+Healthcare+Applications+%F0%9F%9A%80;Open+to+Software+Engineering+Roles;SIH+2025+Grand+Finale+Runner-Up+%F0%9F%8F%86;Passionate+About+Full+Stack+%26+AI+Engineering" />
 
 </div>
 <div align="center">
 
-<img src="https://img.shields.io/badge/Computer%20Engineer-Problem%20Solver-0A84FF?style=for-the-badge&logo=code&logoColor=white"/>
-<img src="https://img.shields.io/badge/GDG-Technical%20Lead-F72585?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/SIH%202025-1st%20Runner--Up-FFB703?style=for-the-badge&logo=hackathon&logoColor=black"/>
-<img src="https://img.shields.io/badge/QSpiders-Java%20Full%20Stack%20Intern-06D6A0?style=for-the-badge&logo=java&logoColor=black"/>
-<img src="https://img.shields.io/badge/Open%20to-Work-00C853?style=for-the-badge&logo=linkedin&logoColor=white"/>
-<img src="https://img.shields.io/badge/India-🇮🇳-4361EE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Engineer-Problem%20Solver-7F5AF0?style=for-the-badge&logo=code&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/GDG-Technical%20Lead-FF5DA2?style=for-the-badge&logo=google&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/SIH%202025-1st%20Runner--Up-FFD60A?style=for-the-badge&logo=hackathon&logoColor=black&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/QSpiders-Java%20Full%20Stack%20Intern-2CD9FF?style=for-the-badge&logo=java&logoColor=black&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Open%20to-Work-2ED573?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/India-🇮🇳-7F5AF0?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
@@ -104,7 +104,7 @@ Currently:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlaminM01&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlaminM01&theme=radical" width="100%" />
 
 </div>
 
@@ -117,7 +117,7 @@ Currently:
 
 <td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/SIH%202025-1st%20Runner--Up-FFB703?style=for-the-badge&logo=hackathon&logoColor=black"/>
+<img src="https://img.shields.io/badge/SIH%202025-1st%20Runner--Up-FFD60A?style=for-the-badge&logo=hackathon&logoColor=black&labelColor=0D1117"/>
 
 ### 🧠 SIH 2025 Grand Finale
 
@@ -127,7 +127,7 @@ Currently:
 
 <td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/GDG-Technical%20Lead-F72585?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/GDG-Technical%20Lead-FF5DA2?style=for-the-badge&logo=google&logoColor=white&labelColor=0D1117"/>
 
 ### 🧑‍💻 GDG Technical Lead
 
@@ -137,7 +137,7 @@ Leading technical planning and delivery of workshops and hackathons on web, clou
 
 <td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/Open%20to-Software%20Engineering%20Roles-00C853?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20to-Software%20Engineering%20Roles-2ED573?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
 
 ### 💼 Open To Work
 
@@ -159,22 +159,22 @@ Java Full Stack • AI/ML • Data Analytics
 <tr>
 
 <td align="center" style="padding: 5px;">
-<img src="https://github-readme-stats.vercel.app/api?username=AlaminM01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" width="420" />
+<img src="https://github-readme-stats.vercel.app/api?username=AlaminM01&show_icons=true&theme=radical&hide_border=true&rank_icon=github&count_private=true&bg_color=0D1117&title_color=FF5DA2&icon_color=2CD9FF&text_color=c9d1d9" width="420" />
 </td>
 
 <td align="center" style="padding: 5px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaminM01&layout=compact&theme=tokyonight&hide_border=true" width="360" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaminM01&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5DA2&text_color=c9d1d9" width="360" />
 </td>
 
 </tr>
 <tr>
 
 <td align="center" style="padding: 5px;">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlaminM01&theme=tokyonight&hide_border=true" width="420" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlaminM01&hide_border=true&background=0D1117&ring=FF5DA2&fire=FFD60A&currStreakLabel=2CD9FF&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=8b949e" width="420" />
 </td>
 
 <td align="center" style="padding: 5px;">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlaminM01&theme=react-dark&hide_border=true&area=true" width="420" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlaminM01&hide_border=true&area=true&bg_color=0D1117&color=2CD9FF&line=FF5DA2&point=FFD60A" width="420" />
 </td>
 
 </tr>
@@ -198,7 +198,7 @@ Java Full Stack • AI/ML • Data Analytics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AlaminM01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=2&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=AlaminM01&theme=radical&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=2&column=6" />
 
 </div>
 
@@ -216,9 +216,9 @@ Java Full Stack • AI/ML • Data Analytics
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=AlaminM01&color=00E1FF&style=for-the-badge&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/AlaminM01?style=for-the-badge&color=00E1FF&labelColor=111827" />
-<img src="https://img.shields.io/github/stars/AlaminM01?style=for-the-badge&color=FACC15&labelColor=111827" />
+<img src="https://komarev.com/ghpvc/?username=AlaminM01&color=FF5DA2&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/AlaminM01?style=for-the-badge&color=2CD9FF&labelColor=0D1117" />
+<img src="https://img.shields.io/github/stars/AlaminM01?style=for-the-badge&color=FFD60A&labelColor=0D1117" />
 
 </div>
 
@@ -264,10 +264,10 @@ Java Full Stack • AI/ML • Data Analytics
 
 <br/>
 
-<img src="https://img.shields.io/badge/OCR%20Pipelines-4361EE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-4361EE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenCV-4361EE?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Neural%20Networks-4361EE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OCR%20Pipelines-7F5AF0?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/LLMs-7F5AF0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-7F5AF0?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Neural%20Networks-7F5AF0?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
@@ -319,7 +319,7 @@ Java Full Stack • AI/ML • Data Analytics
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 </div>
 
@@ -347,6 +347,6 @@ Java Full Stack • AI/ML • Data Analytics
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00E1FF,100:0077FF&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:2CD9FF,50:FF5DA2,100:7F5AF0&section=footer" />
 
 </div>
