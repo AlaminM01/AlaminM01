@@ -266,7 +266,7 @@ Java Full Stack • AI/ML • Data Analytics
 
 <img src="https://img.shields.io/badge/OCR%20Pipelines-7F5AF0?style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/LLMs-7F5AF0?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/OpenCV-7F5AF0?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/OpenCV-7F5AF0?style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Neural%20Networks-7F5AF0?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
@@ -288,8 +288,8 @@ Java Full Stack • AI/ML • Data Analytics
 <div align="center">
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
