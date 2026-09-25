@@ -22,7 +22,7 @@
 <!-- Tech stack strip -->
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,react,fastapi,spring,mysql,aws,docker,github" height="55" />
+<img src="https://skillicons.dev/icons?i=java,python,js,react,fastapi,spring,mysql,mongodb,aws,docker,github" height="55" />
 
 </div>
 
@@ -170,7 +170,7 @@ Java Full Stack • AI/ML • Data Analytics
 <tr>
 
 <td align="center" style="padding: 5px;">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlaminM01&hide_border=true&background=0D1117&ring=FF5DA2&fire=FFD60A&currStreakLabel=2CD9FF&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=8b949e" width="420" />
+<img src="https://github-readme-streak-stats.vercel.app/?user=AlaminM01&hide_border=true&background=0D1117&ring=FF5DA2&fire=FFD60A&currStreakLabel=2CD9FF&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=8b949e" width="420" />
 </td>
 
 <td align="center" style="padding: 5px;">
@@ -260,7 +260,7 @@ Java Full Stack • AI/ML • Data Analytics
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow" height="60" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" height="60" />
 
 <br/>
 
@@ -268,6 +268,16 @@ Java Full Stack • AI/ML • Data Analytics
 <img src="https://img.shields.io/badge/LLMs-7F5AF0?style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/OpenCV-7F5AF0?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Neural%20Networks-7F5AF0?style=for-the-badge&labelColor=0D1117"/>
+
+</div>
+
+---
+
+## 📊 Data Science & Analytics
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=matlab" height="60" />
 
 </div>
 
@@ -289,7 +299,7 @@ Java Full Stack • AI/ML • Data Analytics
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,firebase" height="60" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,firebase" height="60" />
 
 </div>
 
@@ -299,7 +309,7 @@ Java Full Stack • AI/ML • Data Analytics
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github" height="60" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,linux,git,github,gitlab" height="60" />
 
 </div>
 
