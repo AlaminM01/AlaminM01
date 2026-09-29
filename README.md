@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/SIH%202025-1st%20Runner--Up-FFD60A?style=for-the-badge&logo=hackathon&logoColor=black&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/QSpiders-Java%20Full%20Stack%20Intern-2CD9FF?style=for-the-badge&logo=java&logoColor=black&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Open%20to-Work-2ED573?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/India-🇮🇳-7F5AF0?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/India-%F0%9F%87%AE%F0%9F%87%B3-7F5AF0?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
