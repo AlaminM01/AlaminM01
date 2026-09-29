@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:FF5DA2,100:2CD9FF&height=280&section=header&text=Alamin%20Mondal&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Java%20Full%20Stack%20Developer%20•%20AI%2FML%20Enthusiast%20•%20Data%20Analyst&descAlignY=58&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:FF5DA2,100:2CD9FF&height=280&section=header&text=Alamin%20Mondal&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Java%20Full%20Stack%20Developer%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20Data%20Analyst&descAlignY=58&descSize=20" width="100%" />
 
 </div>
 <div align="center">
@@ -159,22 +159,22 @@ Java Full Stack • AI/ML • Data Analytics
 <tr>
 
 <td align="center" style="padding: 5px;">
-<img src="https://github-readme-stats.vercel.app/api?username=AlaminM01&show_icons=true&theme=radical&hide_border=true&rank_icon=github&count_private=true&bg_color=0D1117&title_color=FF5DA2&icon_color=2CD9FF&text_color=c9d1d9" width="420" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=AlaminM01&show_icons=true&theme=radical&hide_border=true&rank_icon=github&count_private=true&bg_color=0D1117&title_color=FF5DA2&icon_color=2CD9FF&text_color=c9d1d9" width="420" />
 </td>
 
 <td align="center" style="padding: 5px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaminM01&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5DA2&text_color=c9d1d9" width="360" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AlaminM01&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5DA2&text_color=c9d1d9" width="360" />
 </td>
 
 </tr>
 <tr>
 
 <td align="center" style="padding: 5px;">
-<img src="https://github-readme-streak-stats.vercel.app/?user=AlaminM01&hide_border=true&background=0D1117&ring=FF5DA2&fire=FFD60A&currStreakLabel=2CD9FF&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=8b949e" width="420" />
+<img src="https://streak-stats.demolab.com/?user=AlaminM01&hide_border=true&background=0D1117&ring=FF5DA2&fire=FFD60A&currStreakLabel=2CD9FF&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=8b949e" width="420" />
 </td>
 
 <td align="center" style="padding: 5px;">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlaminM01&hide_border=true&area=true&bg_color=0D1117&color=2CD9FF&line=FF5DA2&point=FFD60A" width="420" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlaminM01&theme=radical" width="360" />
 </td>
 
 </tr>
@@ -188,7 +188,11 @@ Java Full Stack • AI/ML • Data Analytics
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AlaminM01/AlaminM01/output/snake.svg" width="95%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlaminM01/AlaminM01/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlaminM01/AlaminM01/output/snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/AlaminM01/AlaminM01/output/snake.svg" width="95%" />
+</picture>
 
 </div>
 
@@ -198,7 +202,7 @@ Java Full Stack • AI/ML • Data Analytics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AlaminM01&theme=radical&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=2&column=6" />
+<img src="https://trophy.ryglcloud.net/?username=AlaminM01&theme=radical&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=2&column=6" />
 
 </div>
 
